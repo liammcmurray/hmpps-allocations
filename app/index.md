@@ -1,13 +1,13 @@
 ---
 layout: collection
-title: "A design history for your GOV.UK service"
-description: "Document and share design decisions. Create a permanent record of how your service has developed over time."
+title: "A design history for `Manage a workforce`"
+description: "A permanent record of how the service has developed during the Alpha phase."
 pagination:
   data: collections.all
   reverse: true
   size: 50
 posts:
-  title: Getting started
+  title: Design iterations
 eleventyComputed:
   eleventyNavigation:
     key: home
