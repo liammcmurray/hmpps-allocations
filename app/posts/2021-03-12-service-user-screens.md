@@ -12,7 +12,7 @@ date: 2021-03-12
       text: "Index page", id: "Screenshot localhost_3000 2021.03.16 09_34_49",
       img: { src: "screenshot-localhost_3000-2021.03.16-09_34_49.png" }
     }, {
-      text: "Screenshot localhost_3000 2021.03.16 09_35_11",
-      text: "Index page", id: { src: "screenshot-localhost_3000-2021.03.16-09_35_11.png" }
+       text: "Index page", id: "Screenshot localhost_3000 2021.03.16 09_34_49",
+      img: { src: "screenshot-localhost_3000-2021.03.16-09_35_11.png" }
     }]
 }) }}
